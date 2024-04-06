@@ -1,0 +1,461 @@
+ .hamburger-menu {
+  width: 40px;
+  height: 26.4px;
+  margin: 16.8px 0;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 40px;
+  height: 26.4px;
+  box-sizing: border-box;
+}
+ .logo {
+  background: url('./assets/images/logo.png') 50% / cover no-repeat;
+  margin-right: 54px;
+  width: 245px;
+  height: 60px;
+}
+
+ .link-text {
+  margin-top: 1px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Roboto';
+  font-weight: 600;
+  font-size: 22px;
+  letter-spacing: 1.1px;
+  color: #000000;
+}
+ .links {
+  margin: 16.5px 48px 16.5px 0;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 843px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+ .lang-icon {
+  margin: 1px 10px 0 0;
+  width: 24px;
+  height: 24px;
+}
+ .lang {
+  margin: 2.8px 12px 1.2px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Roboto';
+  font-weight: 600;
+  font-size: 18px;
+  text-transform: uppercase;
+  color: #000000;
+}
+ .line-1 {
+  background: #000000;
+  margin-right: 13px;
+  width: 3px;
+  height: 25px;
+}
+ .currency-icon {
+  margin: 1px 5.8px 0 0;
+  width: 24px;
+  height: 24px;
+}
+ .currencty {
+  margin: 2.2px 0 1.8px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Roboto';
+  font-weight: 600;
+  font-size: 18px;
+  letter-spacing: 0.9px;
+  text-transform: uppercase;
+  color: #000000;
+}
+ .button-1 {
+  border-radius: 36px;
+  border: 3px solid #000000;
+  background: #FFFFFF;
+  position: relative;
+  margin: 5.7px 20px 5.7px 0;
+  display: flex;
+  flex-direction: row;
+  padding: 11.3px 22px 12.3px 14px;
+  box-sizing: border-box;
+}
+ .connect-icon {
+  margin: 0 12px 1px 0;
+  width: 24px;
+  height: 24px;
+}
+ .connect {
+  margin-top: 4px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Roboto';
+  font-weight: 600;
+  font-size: 18px;
+  text-transform: uppercase;
+  color: #000000;
+}
+ .button-2 {
+  border-radius: 36px;
+  border: 3px solid #000000;
+  background: #FFFFFF;
+  position: relative;
+  margin: 5px 0 5.7px 0;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  padding: 10.3px 0 14px 0;
+  width: 222px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+ .container-5 {
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+ .header-container {
+  background: #FFFFFF;
+  position: relative;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 30px 65px 30px 70px;
+  width: 1920px;
+  box-sizing: border-box;
+}
+ .search-panel {
+  border-radius: 13px;
+  background: #FFFFFF;
+  position: absolute;
+  left: 50%;
+  top: 26px;
+  translate: -50% 0;
+  width: 1785px;
+  height: 104px;
+}
+ .location-icon {
+  margin: 12.8px 33px 13.5px 0;
+  width: 28px;
+  height: 36px;
+}
+ .opartez-vous {
+  margin-bottom: 18.3px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Montserrat';
+  font-weight: 200;
+  font-size: 18px;
+  color: #000000;
+}
+ .destination-ou-htel {
+  border: none;
+  outline: none;
+  opacity: 0.6;
+  overflow-wrap: break-word;
+  font-family: 'Montserrat';
+  font-weight: 700;
+  font-size: 18px;
+  color: #000000;
+}
+ .container-2 {
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+ .destination {
+  position: relative;
+  margin: 21.3px 0 20.5px 0;
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+ .divider-1 {
+  background: #000000;
+  margin-right: 25px;
+  width: 1px;
+  height: 104px;
+}
+ .calendar-icon {
+  margin: 18.8px 21px 18.5px 0;
+  width: 25px;
+  height: 25px;
+}
+ .arrive {
+  margin-bottom: 18.3px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Montserrat';
+  font-weight: 200;
+  font-size: 18px;
+  color: #000000;
+}
+ .sam-06-avr {
+  overflow-wrap: break-word;
+  font-family: 'Montserrat';
+  font-weight: 700;
+  font-size: 18px;
+  color: #000000;
+}
+ .container-1 {
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+ .container-6 {
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+ .arrow-1 {
+  margin: 24.8px 47px 25.5px 0;
+  width: 12px;
+  height: 12px;
+}
+ .calendar-icon-1 {
+  margin: 18.8px 21px 18.5px 0;
+  width: 25px;
+  height: 25px;
+}
+ .dpart {
+  margin-bottom: 18.3px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Montserrat';
+  font-weight: 200;
+  font-size: 18px;
+  color: #000000;
+}
+ .sam-08-avr {
+  overflow-wrap: break-word;
+  font-family: 'Montserrat';
+  font-weight: 700;
+  font-size: 18px;
+  color: #000000;
+}
+ .container-4 {
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+ .container-3 {
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+ .arrow-2 {
+  margin: 24.8px 0 25.5px 0;
+  width: 12px;
+  height: 12px;
+}
+ .date-selector {
+  cursor: pointer;
+  border: none;
+  outline: none;
+  background-color: #FFFFFF;
+  margin: 21.3px 29px 20.5px 0;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 550px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+ .divider {
+  background: #000000;
+  margin-right: 27px;
+  width: 1px;
+  height: 104px;
+}
+ .search-icon {
+  margin: 3px 6px 2px 0;
+  width: 25px;
+  height: 25px;
+}
+ .rechercher {
+  overflow-wrap: break-word;
+  font-family: 'Montserrat';
+  font-weight: 600;
+  font-size: 25px;
+  color: #FFFFFF;
+}
+ .search-button-container {
+  cursor: pointer;
+  border-radius: 38.5px;
+  background: #C62525;
+  position: relative;
+  margin: 14px 0 13px 0;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  padding: 23px 0 24px 0;
+  width: 328px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+ .container {
+  position: relative;
+  display: flex;
+  flex-direction: row;
+  width: 961px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+ .reservation-container {
+  background: #29343D;
+  position: relative;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 26px 85px 26px 105px;
+  width: 1920px;
+  box-sizing: border-box;
+}
+ .landing {
+  display: flex;
+  flex-direction: column;
+  align-content: center;
+  background: rgba(0, 0, 0, 0.65);
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  right: 0px;
+  bottom: 0px;
+  height: 100%;
+}
+ .title-landing {
+  display: flex;
+  position: relative;
+  text-align: center;
+  justify-content: center;
+  overflow-wrap: break-word;
+  font-family: 'Montserrat';
+  font-weight: 800;
+  font-size: 70px;
+  width: 600px;
+  color: #FFFFFF;
+}
+ .discover {
+  overflow-wrap: break-word;
+  font-family: 'Montserrat';
+  font-weight: 600;
+  font-size: 25px;
+  color: #FFFFFF;
+}
+ .button-container {
+  cursor: pointer;
+  border-radius: 38.5px;
+  background: #C62525;
+  position: relative;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 400px;
+  padding: 24px 19.5px 23px 18px;
+  box-sizing: border-box;
+}
+ .landing-container {
+  background: url('./assets/images/coverImg.png');
+  position: relative;
+  display: grid;
+  flex-direction: column;
+  align-items: center;
+  justify-items: center;
+  width: 1920px;
+  height: 804px;
+  box-sizing: border-box;
+}
+.home {
+  background: #FFFFFF;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 1920px;
+  box-sizing: border-box;
+}
+
+.overlay {
+  position: fixed; 
+  display: none; 
+  width: 100%; 
+  height: 100%;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background-color: rgba(0,0,0,0.5); 
+  z-index: 2;
+  cursor: pointer; 
+  background: rgba(0, 0, 0, 0.72);
+
+  flex-direction: column;
+  align-items: center;
+  width: 1920px;
+  box-sizing: border-box;
+}
+
+.container-overlay {
+  border-radius: 39px;
+  background: #FFFFFF;
+  position: absolute;
+  left: 50%;
+  top: 140px;
+  translate: -50% 0;
+  width: 1000px;
+  height: 700px;
+}
+
+ .hotel-title {
+  margin: 42px 4px 42px 4px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 26px;
+  color: #000000;
+}
+ .image {
+  background: url('./assets/images/image3.png') 50% / cover no-repeat;
+  width: 328.3px;
+  height: 200px;
+}
+.container-11 {
+  margin-top: 5px;
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+
+ .container-33 {
+  position: relative;
+  margin: 0 8px 53px 0;
+  display: flex;
+  flex-direction: row;
+  width: fit-content;
+  box-sizing: border-box;
+}
+
+ .container-44 {
+  position: relative;
+  margin: 0 15.7px 12px 0;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 838.7px;
+  box-sizing: border-box;
+}
+
+ .container-22 {
+  position: relative;
+  display: flex;
+  flex-direction: row;
+  width: 854.3px;
+  box-sizing: border-box;
+}
